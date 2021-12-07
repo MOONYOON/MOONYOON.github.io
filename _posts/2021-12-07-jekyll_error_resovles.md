@@ -31,4 +31,6 @@ bundle add webrick
 
 참고 사이트
 [Load error: cannot load such file - webrick](https://talk.jekyllrb.com/t/load-error-cannot-load-such-file-webrick/5417)
+
+
 [jekyll 오류 해결 (부제: github 블로그 만들기)](https://velog.io/@minji-o-j/jekyll-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0)
